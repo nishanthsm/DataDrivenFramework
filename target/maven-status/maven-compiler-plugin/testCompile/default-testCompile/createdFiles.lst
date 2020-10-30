@@ -1,0 +1,7 @@
+com\way2a\listeners\CustomListener.class
+com\way2a\base\TestBase.class
+com\way2a\testcases\AddCustomerTest.class
+com\way2a\utilities\ExcelReader.class
+com\way2a\utilities\TestUtil.class
+com\way2a\testcases\BankManagerLoginTest.class
+com\way2a\rough\TestProperties.class
